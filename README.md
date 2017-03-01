@@ -5,6 +5,14 @@ It has been programed with no IDE under Linux Ubuntu 14.02, and the source code 
 
 In the realeases tab there is a Windows executable if you wish to skip the compiling / converting the project process.
 
-
 License: MIT  
 Author: Jorge Soriano // eikur
+
+
+## Controls
+- **Up** : Rotate the falling piece / select option in Title screen
+- **Down** : Drop the falling piece / select option in Title screen
+- **Left** / **Right** : Move the falling piece left or right
+- **P**: Pause button /  confirm an option in Title screen  
+
+
